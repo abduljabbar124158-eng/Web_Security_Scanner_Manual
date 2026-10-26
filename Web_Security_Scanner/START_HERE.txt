@@ -1,0 +1,11 @@
+WEB SECURITY SCANNER — MANUAL START (NO BAT FILES)
+
+1. Extract this ZIP.
+2. Open the extracted folder in File Explorer.
+3. Click the address bar, type cmd, and press Enter.
+4. Type: py web_app.py
+   If that does not work, try: python web_app.py
+5. Keep the terminal open and visit http://127.0.0.1:8080 in your browser.
+6. Press Ctrl+C in the terminal to stop.
+
+No .bat or .exe file is needed. See README.md for details.
